@@ -1,0 +1,130 @@
+body{
+    background-image: url(images/rm251-mind-15-g.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.flex-column{
+    margin-top: -85vh;
+    list-style-type: none;
+    width: 10vh;
+    height: 40vh;
+}
+.nav-item,a{
+    text-decoration: none;
+    color: #F6C6E1;
+    padding-top: 26px;
+    margin-left: -2vh;
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: 600;
+}
+
+.heading{
+    color: whitesmoke;
+    margin-left: 38vh;
+    margin-top: 6vh;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.myself{
+    color: #F6C6E1;
+    margin-left: 38vh;
+    font-weight: 600;
+    gap: 2px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+.qust1{
+    color: whitesmoke;
+    margin-top: 6vh;
+    margin-left: 37vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+.ans1{
+    color: #F6C6E1;
+    margin-top: -1.5vh;
+    margin-left: 42vh;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.qust2{
+    color: whitesmoke;
+    margin-top: 2vh;
+    margin-left: 37vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+.ans2{
+    color: #F6C6E1;
+    line-height: 1.7rem;
+    margin-top: -1.5vh;
+    margin-left: 41.5vh;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.qust3{
+    color: whitesmoke;
+    margin-top: 3vh;
+    margin-left: 37vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+.ans3{
+    color: #F6C6E1;
+    line-height: 1.7rem;
+    margin-top: -1.5vh;
+    margin-left: 41.5vh;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.qust4{
+    color: whitesmoke;
+    margin-top: 3vh;
+    margin-left: 37vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+.ans4{
+    color: #F6C6E1;
+    line-height: 1.7rem;
+    margin-top: -1.5vh;
+    margin-left: 41.5vh;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.qust5{
+    color: whitesmoke;
+    margin-top: 3vh;
+    margin-left: 37vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+}
+.ans5{
+    color: #F6C6E1;
+    line-height: 1.7rem;
+    margin-top: -1.5vh;
+    margin-left: 41.5vh;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
